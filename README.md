@@ -35,6 +35,25 @@ Code/
 
 ---
 
+## Installation
+
+To use this project, first clone the repository:
+
+```bash
+git clone https://github.com/H-32/Cast256-bit.git
+```
+
+Then open the project folder:
+
+```bash
+cd Cast256-bit
+```
+
+This project is implemented in Python and does not require external libraries for the core CAST-256 algorithm.
+
+Make sure Python is installed on your system before running the code.
+
+
 ## 1. Helper Functions
 
 The `helpers.py` module contains the low-level operations used throughout the implementation.
